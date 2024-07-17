@@ -18,6 +18,10 @@ functionalities, and CRUD operations on users.
 ## Video Demonstration
 
 
+https://github.com/user-attachments/assets/c9421520-2727-4b60-81c1-a9a5f85235a7
+
+
+
 ## Note
 - When the user registers that individual is a normal user
 - Admin has rights Make someone admin or not
