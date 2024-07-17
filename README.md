@@ -5,7 +5,7 @@ functionalities, and CRUD operations on users.
 
 **Client:** React, TailwindCSS, Redux
 
-**Server:** Node, Express, Zod (Validatio), Mongoose
+**Server:** Node, Express, Zod (Validation), Mongoose
 
 **Database:** MongoDB
 
