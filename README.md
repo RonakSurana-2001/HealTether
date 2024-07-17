@@ -28,7 +28,7 @@ functionalities, and CRUD operations on users.
 Clone the Repository
 
 ```bash
-git clone https://github.com/RonakSurana-2001/HealthTech.git
+git clone https://github.com/RonakSurana-2001/HealTether.git
 ```
 For Frontend
 ```bash
@@ -56,7 +56,7 @@ npm run dev
 ```
 ## Live Site
 
-<a href="">
+<a href="https://heal-tether.vercel.app/">
 Live site</a>  
 
 Backend is deployed on render and database on mongodb atlas free plan so data fetching from backend takes time. So after you perform any action you have to wait.
